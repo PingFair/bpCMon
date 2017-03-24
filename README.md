@@ -3,9 +3,9 @@ The bpCMon is a busines process compliance monitoring framework. Theoretically, 
 
 This project is devoted to implement the bpCMon, with the purpose of making it applicable and efficent in BPM realistic setting. Its main components are, ECL modeler for specifying comliance rules, ERS monitor, and workingInterface for reading various events sources. 
 
-Currently, ECL modeler was partially implemented, and the core part of ERS monitor was implemented, and also the workingInterface for XES format source was implemented based on OpenXES library. Furthermore, the implemented parts of bpCMon was evaluated with others related works based on the logs listed in depository.
+For the current bpCMon, i.e., v 0.9.6, most of its componnets are implemented, including, its ECL modeler, ERS monitor, and the workingInterface for XES format source. In this repository, the bpCMon v0.9.6 could be downloaded and experienced based on an example project. 
 
-Now, this project is still under the developing, evaluating, and optimizating...
+However, the bpCMon now is still under extensively evaluation and optimization...
 
 
 
